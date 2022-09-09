@@ -8,7 +8,7 @@ class mouse :
         #pyautogui.hotkey('ctrl','v')
         #pyautogui.press('enter')
         time.sleep(3)
-        pyautogui.moveTo(630,800)
+        pyautogui.moveTo(530,800)
         pyautogui.click()
-        
+
 mouse.mouse_move()
